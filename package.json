@@ -1,0 +1,15 @@
+{
+  "name": "card-tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serverless": "^3.24.1",
+    "typescript": "^4.8.4"
+  }
+}

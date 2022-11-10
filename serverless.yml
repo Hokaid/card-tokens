@@ -1,0 +1,10 @@
+service: card-tokens
+
+provider:
+  name: aws
+  runtime: nodejs12.x
+  
+functions:
+  cardToken:
+    handler: index.handler
+    name: card-token
